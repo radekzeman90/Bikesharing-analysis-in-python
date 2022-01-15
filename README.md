@@ -1,6 +1,6 @@
 # Analýza bikesharingu v Edinburghu - Python
 
-Projekt v tomto repozitáři je jedním ze dvou výstupů kurzu datové analýzy od společnosti Engeto, který jsem absolvoval mezi zářím 2021 a lednem 2022. Kód je psán v jazyce Python. Jedná se o analýzu půjčování kol v Edinburgu. Tato analýza čerpá data z databáze výpůjček analyzovaného projektu (stanice kde bylo kolo půjčeno a vráceno spolu i časovým záznamem, zeměpisné souřadnice stanic) a z databáze počasí v Edinburgu (teplota, srážky, vítr, vlhkost atd. měřeny v 3hodinových intervalech).  Výstupy mají grafickou, popř. tabulkovou podobu a jsou v zásadě tyto:
+Projekt v tomto repozitáři je jedním ze dvou výstupů kurzu datové analýzy od společnosti Engeto, který jsem absolvoval mezi zářím 2021 a lednem 2022. Kód je psán v jazyce Python. Jedná se o analýzu projektu bikesharingu v Edinburgu. Tato analýza čerpá data z databáze výpůjček analyzovaného projektu (stanice, kde bylo kolo půjčeno a vráceno spolu i časovým záznamem, zeměpisné souřadnice stanic) a z databáze počasí v Edinburgu (teplota, srážky, vítr, vlhkost atd. měřeny v 3hodinových intervalech).  Výstupy mají grafickou, popř. tabulkovou podobu a jsou v zásadě tyto:
 
 - Identifikace stanic bikesharingu, které jsou aktivní/neaktivní, nejvytíženější, s nejvíce přebývajícími/chybějícími koly.
 - Určení vzdálenosti mezi stanicemi.
